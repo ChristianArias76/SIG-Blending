@@ -12,3 +12,4 @@
 - Se genera una sola muestra por volquete y no se permite duplicar el código de muestra.
 - Solo se puede asignar el volquete a pilas existentes en el programa de muestreo SIG.
 - El registro funciona desde el punto de muestreo, sin depender de la oficina (móvil o tablet).
+- El sistema valida que la placa del volquete tenga formato válido y que el tonelaje sea mayor que cero antes de guardar.
